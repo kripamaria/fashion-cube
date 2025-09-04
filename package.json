@@ -1,4 +1,7 @@
 {
+  "engines": {
+  "node": "18"
+  },
   "name": "fashioncube",
   "version": "0.1.0",
   "private": true,
